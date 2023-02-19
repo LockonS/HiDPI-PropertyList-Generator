@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions/precache-manifest.2660981c3c56adc943a47a985ac7862a.js"
+  "/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions/precache-manifest.c5becfb14490de662d568ac2f92ddca2.js"
 );
 
 self.addEventListener('message', (event) => {
